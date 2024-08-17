@@ -12,7 +12,7 @@ async function getDB(){
         }, 1000);
     });
     // const response = await $.ajax({
-    //     url: "https://trainingparty.alwaysdata.net/getFirstPlayer.php",
+    //     url: "https://example.com/getFirstPlayer.php",
     //     method: "GET",
     //     dataType: "json",
     // });
